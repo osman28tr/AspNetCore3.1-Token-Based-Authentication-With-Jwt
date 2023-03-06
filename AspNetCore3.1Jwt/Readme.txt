@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DESKTOP-7LR4Q85\SQLEXPRESS;Initial Catalog=UdemyApiWithTokenDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domain
