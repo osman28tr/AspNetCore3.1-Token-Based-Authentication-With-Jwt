@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AspNetCore3._1Jwt.Domain
+namespace AspNetCore3._1Jwt.Domain.Models
 {
     public partial class User
     {
